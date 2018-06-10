@@ -1,0 +1,14 @@
+Adis-MacBook-Pro:se18b-ex4-tdd-adihalali adihalali$ npm install testling --save-dev
+npm WARN registry Using stale data from https://registry.npmjs.org/ because the host is inaccessible -- are you offline?
+npm WARN registry Using stale package data from https://registry.npmjs.org/ due to a request error during revalidation.
+npm WARN deprecated minimatch@0.3.0: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+npm ERR! path /Users/adihalali/Desktop/Ex4/se18b-ex4-tdd-adihalali/node_modules/testling/node_modules/browser-launcher/node_modules/headless
+npm ERR! code ENOENT
+npm ERR! errno -2
+npm ERR! syscall rename
+npm ERR! enoent ENOENT: no such file or directory, rename '/Users/adihalali/Desktop/Ex4/se18b-ex4-tdd-adihalali/node_modules/testling/node_modules/browser-launcher/node_modules/headless' -> '/Users/adihalali/Desktop/Ex4/se18b-ex4-tdd-adihalali/node_modules/testling/node_modules/browser-launcher/node_modules/.headless.DELETE'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/adihalali/.npm/_logs/2018-06-10T11_09_51_912Z-debug.log
